@@ -1,4 +1,4 @@
-# Cl-Google-Api
+# cl-google-api
 
 ## Obtain Google API credentials
 
