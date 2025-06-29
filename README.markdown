@@ -21,6 +21,9 @@ Enable Gmail API:
 ## Google OAuth flow for web-applications
 https://developers.google.com/identity/protocols/oauth2/javascript-implicit-flow
 
+## Google API reference 
+https://developers.google.com/workspace/gmail/api/reference/rest
+
 ## Usage
 
 ```
